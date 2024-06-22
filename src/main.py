@@ -5,7 +5,6 @@ from src.json_saver import JSONSaver
 
 # Функция для взаимодействия с пользователем
 def user_interaction():
-    platforms = ["HeadHunter"]
     search_query = input("Введите поисковый запрос: ")
     try:
         page = int(input("Введите количество страниц, не больше 20: "))

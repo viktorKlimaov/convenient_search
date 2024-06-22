@@ -1,0 +1,1402 @@
+[
+   {
+      "name": "Frontend developer",
+      "url": "https://hh.ru/vacancy/101939534",
+      "salary_from": 5000000,
+      "salary_to": 15000000,
+      "description": "Design, develop, and maintain user interfaces for Odoo applications using JavaScript, OWL (Odoo Web Library), and Vue.js. Ensure the technical..."
+   },
+   {
+      "name": "Frontend-разработчик",
+      "url": "https://hh.ru/vacancy/101853838",
+      "salary_from": 500000,
+      "salary_to": 0,
+      "description": "Разработка логики и реализация функционала Front-end части на React и Redux/Apollo (GraphQL). Участие и обсуждение архитектурных решений для..."
+   },
+   {
+      "name": "WEB - Программист",
+      "url": "https://hh.ru/vacancy/101327408",
+      "salary_from": 350000,
+      "salary_to": 400000,
+      "description": "Создание одностраничных сайтов на казахском и русском языках. Поддержка существующих, разработка или доработка новых сайтов. Выполнение задач по изменению, дополнению..."
+   },
+   {
+      "name": "Middle + / Senior Python Developer",
+      "url": "https://hh.ru/vacancy/101932918",
+      "salary_from": 300000,
+      "salary_to": 370000,
+      "description": "Принимать участие в переработке legacy-части платформы: - миграция на актуальную архитектуру и фреймворки. - исправление бизнес-логики с учётом обновления инфраструктурных..."
+   },
+   {
+      "name": "Cистемный администратор Linux\\DevOps",
+      "url": "https://hh.ru/vacancy/100609690",
+      "salary_from": 250000,
+      "salary_to": 0,
+      "description": "Создание и развитие инфраструктуры с подходом IaC. Формирование и реализация задач по отказоустойчивости и масштабируемости инфраструктуры. Выстраивание взаимодействия с командой..."
+   },
+   {
+      "name": "IOS разработчик (международный проект)",
+      "url": "https://hh.ru/vacancy/101784536",
+      "salary_from": 200000,
+      "salary_to": 0,
+      "description": "Разработка новых и поддержка существующих приложений под iOS. Принятие архитектурных решений. Написание качественного кода. Участвовать в развитии продуктов: от обсуждения..."
+   },
+   {
+      "name": "Middle Python Developer",
+      "url": "https://hh.ru/vacancy/102136724",
+      "salary_from": 200000,
+      "salary_to": 0,
+      "description": "Разработка ERP системы группы компаний. Работа с брокерами сообщений (RabbitMQ). Написание TDD. Проектирование взаимодействия IT систем группы компаний с 1..."
+   },
+   {
+      "name": "СЕОшник",
+      "url": "https://hh.ru/vacancy/101795328",
+      "salary_from": 180000,
+      "salary_to": 300000,
+      "description": "Создание и продвижение сайтов. Работа с поведенческим фактором."
+   },
+   {
+      "name": "Data analyst",
+      "url": "https://hh.ru/vacancy/100843013",
+      "salary_from": 180000,
+      "salary_to": 230000,
+      "description": "Ad-hoc аналитика. Построение дашбордов в BI-системе. Работа с продуктовой и коммерческой аналитикой. А/Б-тесты. Подключение новых источников..."
+   },
+   {
+      "name": "Python - разработчик",
+      "url": "https://hh.ru/vacancy/101728014",
+      "salary_from": 180000,
+      "salary_to": 300000,
+      "description": "Участвовать в разработке архитектуры новых сервисов. Поддержка и оптимизация существующих, создание новых REST API. Заниматься изучением и внедрением новых технологий. "
+   },
+   {
+      "name": "Аналитик",
+      "url": "https://hh.ru/vacancy/100048052",
+      "salary_from": 170000,
+      "salary_to": 0,
+      "description": "Подключение партнеров к проекту по анализу данных о вторичных продажах, на основе данных ОФД (техническая помощь, координация, помощь в валидации..."
+   },
+   {
+      "name": "Junior Data Engineer",
+      "url": "https://hh.ru/vacancy/102108379",
+      "salary_from": 150000,
+      "salary_to": 0,
+      "description": "сопровождение DataLake. -разработка ETL. -разработка и автоматизация форм отчетности, витрин данных."
+   },
+   {
+      "name": "Python разработчик",
+      "url": "https://hh.ru/vacancy/100742575",
+      "salary_from": 150000,
+      "salary_to": 250000,
+      "description": "Разработка и поддержка бекенд-части приложения на языке <highlighttext>Python</highlighttext>. Создание и управление очередями задач с использованием Celery и RabbitMQ. "
+   },
+   {
+      "name": "QA Engineer (Middle)",
+      "url": "https://hh.ru/vacancy/102100553",
+      "salary_from": 150000,
+      "salary_to": 180000,
+      "description": "Делаем: — Цифровые экосистемы для бизнеса и государства: сайты, порталы, интернет-магазины, мобильные приложения, CRM, ERP, сервисы аналитики, финансовой отчетности и..."
+   },
+   {
+      "name": "Middle Python Developer",
+      "url": "https://hh.ru/vacancy/102188579",
+      "salary_from": 150000,
+      "salary_to": 250000,
+      "description": "Retail Rocket - платформа, которая помогает трансформировать новых покупателей в постоянных и работать над их удержанием. Sailplay - платформа с набором инструментов..."
+   },
+   {
+      "name": "Биоинформатик",
+      "url": "https://hh.ru/vacancy/101948741",
+      "salary_from": 150000,
+      "salary_to": 200000,
+      "description": "Анализ NGS данных, участие в доработке пайплайнов, подбор подходящих инструментов под конкретную задачу. Статистический анализ полученных данных. Написание скриптов для..."
+   },
+   {
+      "name": "Trader at crypto market-making company",
+      "url": "https://hh.ru/vacancy/101501407",
+      "salary_from": 150000,
+      "salary_to": 200000,
+      "description": "To be part of mids.capital trading desk team and provide market-making service for clients. You will do the following..."
+   },
+   {
+      "name": "Python backend developer",
+      "url": "https://hh.ru/vacancy/101982971",
+      "salary_from": 140000,
+      "salary_to": 0,
+      "description": "LiteGallery - это сервис-экосистема для фотографов, которая представляет возможность передавать съемки, создать свой сайт, создать свадебную книгу и отправить в..."
+   },
+   {
+      "name": "QA тестировщик",
+      "url": "https://hh.ru/vacancy/100463062",
+      "salary_from": 140000,
+      "salary_to": 240000,
+      "description": "Закрываем полный цикл разработки: от UX/UI до развертывания и сопровождения. Работаем небольшими командами 8-12 человек. Рассчитываем на долгосрочное..."
+   },
+   {
+      "name": "Инженер технической поддержки ПО вендора (2 линия)",
+      "url": "https://hh.ru/vacancy/102073702",
+      "salary_from": 140000,
+      "salary_to": 163000,
+      "description": "Оказание технической поддержки Клиентам и партнерам компании (2 линия) по продуктам ИБ. Установка и настройка продуктов компании на тестовых стендах..."
+   },
+   {
+      "name": "Data scientist junior (младший научный сотрудник)",
+      "url": "https://hh.ru/vacancy/99754606",
+      "salary_from": 124752,
+      "salary_to": 124752,
+      "description": "Решаемые задачи: обучение языковых моделей классификации текста, анализ научных публикаций, анализ данных, написание публикаций по результатам работы. Постановка задач в..."
+   },
+   {
+      "name": "QA Middle+",
+      "url": "https://hh.ru/vacancy/102270852",
+      "salary_from": 120000,
+      "salary_to": 190000,
+      "description": "Тестировать web-приложения. Расследовать и воспроизводить инциденты. Оформлять обнаруженные дефекты согласно регламентам. Составлять и актуализировать тест планы в TestRail."
+   },
+   {
+      "name": "QA Engineer в IT-компании Junior+",
+      "url": "https://hh.ru/vacancy/101530574",
+      "salary_from": 120000,
+      "salary_to": 0,
+      "description": "Тестирование backend (API, b2b, b2c). — Тестирование frontend (WEB). — Тестирование продуктовых метрик (Amplitude, Яндекс метрика). — "
+   },
+   {
+      "name": "Python backend developer",
+      "url": "https://hh.ru/vacancy/101904521",
+      "salary_from": 120000,
+      "salary_to": 180000,
+      "description": "Описания нет"
+   },
+   {
+      "name": "PHP-developer / PHP-разработчик (backend)",
+      "url": "https://hh.ru/vacancy/101455256",
+      "salary_from": 120000,
+      "salary_to": 180000,
+      "description": "Доработка архитектуры проекта. Оптимизация существующего функционала, устранение ошибок, код ревью. Участие в планёрках вместе с командой, составление спринтов. "
+   },
+   {
+      "name": "Аналитик Python",
+      "url": "https://hh.ru/vacancy/101282288",
+      "salary_from": 120000,
+      "salary_to": 150000,
+      "description": "Разработка кода на <highlighttext>Python</highlighttext> и SQL для создания отчётов и выгрузок по ТЗ. Поддержка и улучшение существующей кодовой базы. "
+   },
+   {
+      "name": "Аналитик второй линии поддержки",
+      "url": "https://hh.ru/vacancy/102152938",
+      "salary_from": 120000,
+      "salary_to": 0,
+      "description": "работать с данными и писать скрипты на <highlighttext>Python</highlighttext>. — работать с системами мониторинга, настраивать алертинг, реагировать на поступающие в этом канале..."
+   },
+   {
+      "name": "Инженер по тестированию",
+      "url": "https://hh.ru/vacancy/99843629",
+      "salary_from": 120000,
+      "salary_to": 250000,
+      "description": "Тестирование WEB UI, REST API. Тестирование микросервисов. Анализ требований и составление тестовой документации. Взаимодействие с командой разработки и бизнесом. "
+   },
+   {
+      "name": "Middle Frontend Developer (React)",
+      "url": "https://hh.ru/vacancy/100074286",
+      "salary_from": 120000,
+      "salary_to": 140000,
+      "description": "Создавать UI для каждого модуля будущей системы. Верстка и разработка интерфейсов."
+   },
+   {
+      "name": "Программист",
+      "url": "https://hh.ru/vacancy/101787332",
+      "salary_from": 120000,
+      "salary_to": 215000,
+      "description": "1. Разработка и поддержка чат-ботов на основе яп <highlighttext>Python</highlighttext>. 2. Интеграция ботов с различными мессенджерами и платформами. 3. "
+   },
+   {
+      "name": "Разработчик AI-решений (python + no-code платформы)",
+      "url": "https://hh.ru/vacancy/99862545",
+      "salary_from": 120000,
+      "salary_to": 200000,
+      "description": "Кроме того, мы разрабатываем высокоэффективных AI-агентов, которые берут на себя ряд рутинных задач, таких как обработка данных, составление отчетов..."
+   },
+   {
+      "name": "PHP-developer / PHP-разработчик (backend)",
+      "url": "https://hh.ru/vacancy/101455257",
+      "salary_from": 120000,
+      "salary_to": 180000,
+      "description": "Доработка архитектуры проекта. Оптимизация существующего функционала, устранение ошибок, код ревью. Участие в планёрках вместе с командой, составление спринтов. "
+   },
+   {
+      "name": "Разработчик Python",
+      "url": "https://hh.ru/vacancy/101998011",
+      "salary_from": 100000,
+      "salary_to": 0,
+      "description": "Разработка телеграмм-ботов. Поддержка системы."
+   },
+   {
+      "name": "Разработчик Python / Django",
+      "url": "https://hh.ru/vacancy/101077785",
+      "salary_from": 100000,
+      "salary_to": 150000,
+      "description": "Участие в разработке проектов. Разработка backend (REST API ) для сервисов, как в рамках новых проектов, так и для уже существующих. "
+   },
+   {
+      "name": "Разработчик Python/Django",
+      "url": "https://hh.ru/vacancy/102078261",
+      "salary_from": 100000,
+      "salary_to": 0,
+      "description": "Разработка и доработка приложений и сервисов для коммерческих заказчиков Участие в продуктовых проектах компании."
+   },
+   {
+      "name": "Программист",
+      "url": "https://hh.ru/vacancy/98459592",
+      "salary_from": 100000,
+      "salary_to": 0,
+      "description": "написание студенческих работ по техническим дисциплинам, в сфере строительства в соответствии с требованиями и сроками заказчика (заказчиков вы выбираете самостоятельно!). - "
+   },
+   {
+      "name": "Младший python-разработчик",
+      "url": "https://hh.ru/vacancy/99725937",
+      "salary_from": 85000,
+      "salary_to": 100000,
+      "description": "Разработка внутренних серверных приложений на <highlighttext>Python</highlighttext> для автоматизации бизнес-процессов. Организация взаимообмена данными между собственными и сторонними сервисами через API. "
+   },
+   {
+      "name": "Тестировщик",
+      "url": "https://hh.ru/vacancy/99728109",
+      "salary_from": 80000,
+      "salary_to": 0,
+      "description": "Ручное тестирование веб-приложения, разработанного на стеке <highlighttext>Python</highlighttext> Django, HTML5, CSS, JS, jQuery. Ручное тестирование мобильного приложения на платформе..."
+   },
+   {
+      "name": "Python Backend разработчик",
+      "url": "https://hh.ru/vacancy/101347651",
+      "salary_from": 80000,
+      "salary_to": 120000,
+      "description": "Присоединиться к разработке крупного проекта в сфере сельского хозяйства и экологии. Принимать участие как в разработке приложений, так и научных..."
+   },
+   {
+      "name": "Веб-разработчик",
+      "url": "https://hh.ru/vacancy/102319838",
+      "salary_from": 80000,
+      "salary_to": 0,
+      "description": "...языках(PHP, <highlighttext>Python</highlighttext>, JavaScript, Ruby, C#, Dart/Flutter). Разработка на Laravel/Bitrix Framework(PHP), либо на других языках (<highlighttext>Python</highlighttext>, JavaScript..."
+   },
+   {
+      "name": "Junior - разработчик",
+      "url": "https://hh.ru/vacancy/101169358",
+      "salary_from": 80000,
+      "salary_to": 90000,
+      "description": "Участие в разработке и поддержке существующих сервисов под руководством опытных разработчиков. Внедрение и соблюдение стандартов качества кода, написание тестов. "
+   },
+   {
+      "name": "3D Technical Artist (Blender)",
+      "url": "https://hh.ru/vacancy/102305832",
+      "salary_from": 80000,
+      "salary_to": 120000,
+      "description": "Созданием инструментов и скриптов для оптимизации и автоматизации 3D визуализации с использованием <highlighttext>Python</highlighttext>. Интеграцией Blender add-ons в существующий..."
+   },
+   {
+      "name": "Тестировщик",
+      "url": "https://hh.ru/vacancy/99701439",
+      "salary_from": 75000,
+      "salary_to": 95000,
+      "description": "Функциональное и интеграционное ручное тестирование сервисов. Анализ соответствия продукта требованиям. Составление сопроводительной документации тестирования (тест-кейсы, тестовые наборы, описание принципов..."
+   },
+   {
+      "name": "Junior Python разработчик / IT / (удаленно)",
+      "url": "https://hh.ru/vacancy/101276173",
+      "salary_from": 70000,
+      "salary_to": 100000,
+      "description": "Разработка и поддержка программного обеспечения ( с нейросетями и без). - Работа с базами данных. - Тестирование кода. - Интеграция различных компонентов и модулей. - "
+   },
+   {
+      "name": "Программист Python",
+      "url": "https://hh.ru/vacancy/102300750",
+      "salary_from": 70000,
+      "salary_to": 0,
+      "description": "Разработка внутренних и публичных API для взаимодействия между сервисами. Участие в формировании архитектуры системы. Написание юнит и интеграционных тестов. "
+   },
+   {
+      "name": "Программист",
+      "url": "https://hh.ru/vacancy/98204427",
+      "salary_from": 70000,
+      "salary_to": 0,
+      "description": "Разработка внутренних сервисов компании. Улучшение продукта и его производительности. Доработка созданного ранее ПО. Разработка desktop/mobile приложений для взаимодействия с..."
+   },
+   {
+      "name": "Python-Django Разработчик",
+      "url": "https://hh.ru/vacancy/101091818",
+      "salary_from": 70000,
+      "salary_to": 0,
+      "description": "Разрабатывать, тестировать и поддерживать приложения по приему заказов от клиентов в режиме голосового диалога. Писать читаемый и легко поддерживаемый код. "
+   },
+   {
+      "name": "Python developer (Junior)",
+      "url": "https://hh.ru/vacancy/101219641",
+      "salary_from": 70000,
+      "salary_to": 0,
+      "description": "Разработка новых и поддержка существующих Api и web-приложений на FastAPI / Flask. Работа в PostgreSQL. Написание телеграм ботов. "
+   },
+   {
+      "name": "Программист",
+      "url": "https://hh.ru/vacancy/102195765",
+      "salary_from": 70000,
+      "salary_to": 0,
+      "description": "Программирование."
+   },
+   {
+      "name": "Prompt-инженер / Менеджер AI / AI ARTIST",
+      "url": "https://hh.ru/vacancy/100071705",
+      "salary_from": 70000,
+      "salary_to": 120000,
+      "description": "Изучение трендов и генерация контента с применением нейронных сетей. ⁃ Генерация сторибордов, референсов, аниматиков. ⁃ Генерация творческих работ для социальных сетей. ⁃ "
+   },
+   {
+      "name": "Django разработчик",
+      "url": "https://hh.ru/vacancy/101732827",
+      "salary_from": 60000,
+      "salary_to": 180000,
+      "description": "Разрабатываем современные решения для автоматизации бизнеса."
+   },
+   {
+      "name": "Junior Python разработчик",
+      "url": "https://hh.ru/vacancy/101917777",
+      "salary_from": 60000,
+      "salary_to": 0,
+      "description": "Написание и поддержка интеграций (<highlighttext>python</highlighttext>2/3 + REST/SOAP + MySQL). * Разработка новых продуктов (<highlighttext>python</highlighttext>3 + Flask/Django..."
+   },
+   {
+      "name": "Junior Game Designer (Balance)",
+      "url": "https://hh.ru/vacancy/99086642",
+      "salary_from": 60000,
+      "salary_to": 80000,
+      "description": "Расчет и корректировка баланса игры."
+   },
+   {
+      "name": "QA-инженер / Тестировщик",
+      "url": "https://hh.ru/vacancy/102207163",
+      "salary_from": 60000,
+      "salary_to": 0,
+      "description": "Планировать тестирование различных продуктов и сервисов. Выбирать методы и инструменты тестирования. Создавать тестовые случаи и сценарии. Проводить ручное тестирование. "
+   },
+   {
+      "name": "Junior Data Scientist (NLP)",
+      "url": "https://hh.ru/vacancy/99925785",
+      "salary_from": 60000,
+      "salary_to": 0,
+      "description": "Создание новых моделей на базе современных архитектур. Дообучение и тюнинг текущих моделей."
+   },
+   {
+      "name": "Junior Frontend-developer (Vue.js)",
+      "url": "https://hh.ru/vacancy/102077181",
+      "salary_from": 60000,
+      "salary_to": 80000,
+      "description": "В твои обязанности будет входить разработка системы мониторинга и управления роутерами iRZ, а также новая версия системы мониторинга автотранспорта. <highlighttext>Python</highlighttext>..."
+   },
+   {
+      "name": "Python Developer",
+      "url": "https://hh.ru/vacancy/101793114",
+      "salary_from": 60000,
+      "salary_to": 100000,
+      "description": "Разрабатывать и поддерживать функционал сайта games-stats.com. Писать и оптимизировать парсеры для сбора данных с различных источников с использованием Scrapy. "
+   },
+   {
+      "name": "Python Developer в команду разработки протокола хранения данных (Казань)",
+      "url": "https://hh.ru/vacancy/101827373",
+      "salary_from": 60000,
+      "salary_to": 145000,
+      "description": "На выбор доступны следующие направления: - Разработка полу-автоматизированного сервиса обратной связи / bug tracker. - Разработка клиента для протокола хранения данных DeNet. - "
+   },
+   {
+      "name": "QA Automation junior",
+      "url": "https://hh.ru/vacancy/101805308",
+      "salary_from": 60000,
+      "salary_to": 0,
+      "description": "Писать новые и поддерживать уже существующие автоматизированные API и UI тесты на <highlighttext>Python</highlighttext>. Оперативно реагировать на падения тестов и выяснять..."
+   },
+   {
+      "name": "Начинающий аналитик",
+      "url": "https://hh.ru/vacancy/102049829",
+      "salary_from": 55407,
+      "salary_to": 0,
+      "description": "Выгрузка данных. Формирование регулярной аналитической отчетности для маркетинга."
+   },
+   {
+      "name": "Стажер-разработчик",
+      "url": "https://hh.ru/vacancy/101709026",
+      "salary_from": 50000,
+      "salary_to": 0,
+      "description": "Развивать применение ИИ для автоматизации и оптимизации рабочих процессов внутри компании."
+   },
+   {
+      "name": "Стажер в Data Scientist/ML",
+      "url": "https://hh.ru/vacancy/101926206",
+      "salary_from": 50000,
+      "salary_to": 0,
+      "description": "Написание кода, автоматизация моделей. Построение предсказательных моделей и проверка гипотез. Проведение экспериментов, опробование новых идей в области машинного обучения. "
+   },
+   {
+      "name": "Программист Python",
+      "url": "https://hh.ru/vacancy/100643566",
+      "salary_from": 50000,
+      "salary_to": 150000,
+      "description": "Разрабатываем несколько своих проектов. Боты, порталы, парсеры и многое другое."
+   },
+   {
+      "name": "Аналитик данных IVR",
+      "url": "https://hh.ru/vacancy/101751141",
+      "salary_from": 45000,
+      "salary_to": 50000,
+      "description": "Анализ воронок клиентских путей в продуктах. Выявление триггеров при взаимодействии с банком, влияющих на поведение клиентов в ботах. "
+   },
+   {
+      "name": "Junior Python-разработчик",
+      "url": "https://hh.ru/vacancy/102306596",
+      "salary_from": 40000,
+      "salary_to": 60000,
+      "description": "Разработка и тестирование backend-части программного обеспечения в соответствии с техническим заданием. Поддержка и устранение недостатков в разработанном программном обеспечении. "
+   },
+   {
+      "name": "Программист Python",
+      "url": "https://hh.ru/vacancy/100707850",
+      "salary_from": 40000,
+      "salary_to": 100000,
+      "description": "Доработка back-end на <highlighttext>Python</highlighttext> в рамках поставленных задач (рефакторинг, исправление ошибок, добавление нового функционала). Покрытие узких участков кода юнит..."
+   },
+   {
+      "name": "Стажер IT",
+      "url": "https://hh.ru/vacancy/102190248",
+      "salary_from": 40000,
+      "salary_to": 40000,
+      "description": "Задания для учеников корректно отображаются, при решении не возникает технических проблем. Название урока соответствует тематическому плану. В каждом уроке есть..."
+   },
+   {
+      "name": "Стажер IT (SRE - инженер)",
+      "url": "https://hh.ru/vacancy/102257634",
+      "salary_from": 40000,
+      "salary_to": 45000,
+      "description": "Настройка и развитие мониторинга: настройка дашбордов, метрик и триггеров для выявления сбоев, а также прогнозировать возможные в будущем. "
+   },
+   {
+      "name": "Программист Python (Junior)",
+      "url": "https://hh.ru/vacancy/101851402",
+      "salary_from": 30000,
+      "salary_to": 0,
+      "description": "Работа с базами данных (SQL)."
+   },
+   {
+      "name": "Программист Python",
+      "url": "https://hh.ru/vacancy/102306085",
+      "salary_from": 30000,
+      "salary_to": 40000,
+      "description": "Необходимо написать микросервисное приложение обслуживающее кафку, получающий из нее сообщения о файлах, отправки в обработку этих файлов, и получение ответа. "
+   },
+   {
+      "name": "Младший аналитик данных",
+      "url": "https://hh.ru/vacancy/100582516",
+      "salary_from": 30000,
+      "salary_to": 40000,
+      "description": "Выгружать, обрабатывать и структурировать данные из различных источников. Разрабатывать системы автоматизации и мониторинга бизнес-процессов агентства. Искать и устранять баги..."
+   },
+   {
+      "name": "Программист",
+      "url": "https://hh.ru/vacancy/102130425",
+      "salary_from": 20000,
+      "salary_to": 50000,
+      "description": "Фронтенд на JS."
+   },
+   {
+      "name": "Trainee/Intern/Junior Python backend developer",
+      "url": "https://hh.ru/vacancy/101951553",
+      "salary_from": 10000,
+      "salary_to": 30000,
+      "description": "Писать тесты. Писать фичи. Писать фронт. Диплоить проекты. И всем даём ответ ;)."
+   },
+   {
+      "name": "Системный администратор / Руководитель (СTO)",
+      "url": "https://hh.ru/vacancy/102020251",
+      "salary_from": 8000,
+      "salary_to": 0,
+      "description": "Руководство и контроль отдела технической поддержки. Оптимизация работы серверной инфраструктуры компании (100% linux). Мониторинг, диагностика и оптимизация ПО на серверах..."
+   },
+   {
+      "name": "C++ developer to Berlin",
+      "url": "https://hh.ru/vacancy/99964578",
+      "salary_from": 7500,
+      "salary_to": 10834,
+      "description": "A working environment that makes this team stay and grow. Enough time to make sure that every detail of your..."
+   },
+   {
+      "name": "Senior Data Analyst / Старший Аналитик Данных",
+      "url": "https://hh.ru/vacancy/101257112",
+      "salary_from": 3000,
+      "salary_to": 5000,
+      "description": "Описания нет"
+   },
+   {
+      "name": "Web Specialist (специалист технической поддержки)",
+      "url": "https://hh.ru/vacancy/102303416",
+      "salary_from": 600,
+      "salary_to": 0,
+      "description": "HTTP/API интеграция с партнерскими платформами.  Техническое сопровождение текущих интеграций (проведение тестов, настройка, контроль).  Выгрузка данных с партнерских платформ (парсинг)."
+   },
+   {
+      "name": "Аналитик данных",
+      "url": "https://hh.ru/vacancy/98297970",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Поддержка баз данных (PostgreSQL). Разработка внутренних сервисов на <highlighttext>Python</highlighttext>. Информирование сотрудников об изменениях и нововведениях в файловую структуру и\\или..."
+   },
+   {
+      "name": "Junior Python Django developer",
+      "url": "https://hh.ru/vacancy/101871676",
+      "salary_from": 0,
+      "salary_to": 120000,
+      "description": "В первую очередь работа с печатными материалами (выгрузки счетов, КП и пр. в xslx, pdf). Помощь в разработке API в..."
+   },
+   {
+      "name": "NLP Data Scientist",
+      "url": "https://hh.ru/vacancy/100427991",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "1. Участие в проектировании, разработке и внедрении диалоговых и генеративных моделей, например таких как ChatGPT или MidJourney для различных бизнес..."
+   },
+   {
+      "name": "Стажер-Разработчик",
+      "url": "https://hh.ru/vacancy/102070970",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Создание баз данных. Создание бэкенд приложений. Создание мобильных приложений (желательно с доведением до стора). Создание фронтенда. Функциональные обязанности: - Разработка сервисов..."
+   },
+   {
+      "name": "IT аудитор",
+      "url": "https://hh.ru/vacancy/99706029",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Применение имеющихся инструментов и платформ для обработки данных на основе <highlighttext>Python</highlighttext> и Java. Разработка собственных ad hoc решений и подходов..."
+   },
+   {
+      "name": "Python backend developer (Junior/ Junior+)",
+      "url": "https://hh.ru/vacancy/102191917",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разрабатывать и внедрять новые микросервисы. Писать тесты и анализировать их. Язык программирования: <highlighttext>Python</highlighttext>. Интересные проекты в компании-разработчике решений 1..."
+   },
+   {
+      "name": "Python-разработчик",
+      "url": "https://hh.ru/vacancy/102165776",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка backend-а сервиса. Участие в формировании roadmap развития."
+   },
+   {
+      "name": "Программист встраиваемого ПО (МК)",
+      "url": "https://hh.ru/vacancy/100535974",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Полный цикл разработки встраиваемого ПО для микроконтроллеров семейства Cortex-M/AVR32/AVR8. Тестирование разрабатываемых решений. Консультация в процессе..."
+   },
+   {
+      "name": "Младший аналитик",
+      "url": "https://hh.ru/vacancy/102163288",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Созданием регулярных и разовых отчетов для департамента доставки. Проведением аналитики и исследованием по курьерской доставке. Обновлением и поддержкой отчетов доставки. "
+   },
+   {
+      "name": "Middle Frontend-разработчик",
+      "url": "https://hh.ru/vacancy/102209677",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Участие в планировании задач: декомпозиция и оценка. Исправления багов и доработки. Исследовательские задачи: подбор решений для реализации задач. "
+   },
+   {
+      "name": "Аналитик данных",
+      "url": "https://hh.ru/vacancy/102153352",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Работа с неочищенными источниками данных. Разработка методов интеграции данных из различных источников. Выявление и устранение противоречий и неточностей в данных. "
+   },
+   {
+      "name": "Ведущий Data Scientist",
+      "url": "https://hh.ru/vacancy/101732764",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разрабатывать ML-модели предсказания временных рядов с учетом специфики бизнес-операций. Исследовать логику бизнес-процессов, выделять основные составляющие элементы и..."
+   },
+   {
+      "name": "Python разработчик в HR-tech стартап (ОАЭ)",
+      "url": "https://hh.ru/vacancy/101816033",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка новых фич для сервисов кандидатов и рекомендаций. Разработка серверной части платформы. Оптимизация кода для повышения производительности сервисов. "
+   },
+   {
+      "name": "Junior Python Developer",
+      "url": "https://hh.ru/vacancy/100346071",
+      "salary_from": 0,
+      "salary_to": 200000,
+      "description": "Разработка бэкенда внешних (B2C) и внутренних ИТ-продуктов и сервисов компании на <highlighttext>Python</highlighttext>. Участие в разработке продуктов с..."
+   },
+   {
+      "name": "Middle + Back-end developer (Python Django)",
+      "url": "https://hh.ru/vacancy/101855491",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка и внедрение новых функций платформы. Проверка требований к дизайну. Написание чистого и удобного для пользователя кода. Проведение кода-ревью . "
+   },
+   {
+      "name": "Python Software Engineer",
+      "url": "https://hh.ru/vacancy/102212928",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Stack of technologies used on the project:"
+   },
+   {
+      "name": "Разработчик Python",
+      "url": "https://hh.ru/vacancy/101690793",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разрабатывать новый функционал веб-приложений с использованием Django, DRF, Celery, Nginx, Postgres, Docker. Поддерживать существующий код, исправлять ошибки. "
+   },
+   {
+      "name": "Продуктовый аналитик, удалённо из РФ",
+      "url": "https://hh.ru/vacancy/95530824",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Работать в продуктовой команде в тесной связке с владельцем продукта, а также исследователем, дизайнером и разработкой. Работать с большими объёмами..."
+   },
+   {
+      "name": "Python Developer (Extranet)",
+      "url": "https://hh.ru/vacancy/102306133",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разрабатывать новый API для мобильного приложения. Рефакторить и оптимизировать существующий код. Декомпозировать продуктовые хотелки в задачи и проекты разработки. "
+   },
+   {
+      "name": "Backend developer",
+      "url": "https://hh.ru/vacancy/102257816",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Деплой существующих CI/CD gitlab сценариев, для процессов разработки/сборки/тестирования/инсталляции приложений и инфраструктуры. Работа с базами данных. "
+   },
+   {
+      "name": "Junior Data Scientist",
+      "url": "https://hh.ru/vacancy/100426833",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Команда AI Services трайба Инвестиции и накопления блока Управление благосостоянием ПАО Сбербанк в поисках Data scientist. Разработка, поддержка и развитие..."
+   },
+   {
+      "name": "IT Intern",
+      "url": "https://hh.ru/vacancy/101503409",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Basic knowledge in IT field. Participating in the design and creation of innovative solutions to improve user; experience and enhance..."
+   },
+   {
+      "name": "Intern/Junior GO разработчик",
+      "url": "https://hh.ru/vacancy/102175962",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Регулярное посещение модулей курса. Выполнение домашних заданий. Активное участие в онлайн уроках."
+   },
+   {
+      "name": "Golang разработчик (junior)",
+      "url": "https://hh.ru/vacancy/101735794",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Интересные и нетривиальные задачи проектирования и разработки."
+   },
+   {
+      "name": "Стажер-аналитик",
+      "url": "https://hh.ru/vacancy/101377787",
+      "salary_from": 0,
+      "salary_to": 35000,
+      "description": "Первый этап отбора - выполнение тестового задания."
+   },
+   {
+      "name": "Технический писатель",
+      "url": "https://hh.ru/vacancy/102155373",
+      "salary_from": 0,
+      "salary_to": 400000,
+      "description": "Создание и обновление технической документации продукта — описания технологий, руководства разработчика и администратора, справочники, глоссарий. Сбор информации у разработчиков и техлидов..."
+   },
+   {
+      "name": "Python developer",
+      "url": "https://hh.ru/vacancy/102149201",
+      "salary_from": 0,
+      "salary_to": 400000,
+      "description": "Проектирование и разработка нового функционала. Разработка сервисов, связанных с хранилищами данных. Оптимизация и выявление узких мест в существующем коде и..."
+   },
+   {
+      "name": "DevOps engineer",
+      "url": "https://hh.ru/vacancy/100524740",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Utilize programming languages like Java, <highlighttext>Python</highlighttext>, SQL, Ruby and Go, Container Orchestration services including Docker and Kubernetes, CM tools including..."
+   },
+   {
+      "name": "Junior PL/SQL developer",
+      "url": "https://hh.ru/vacancy/102114813",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Участие в анализе клиентских требований. Разработка новых функциональных возможностей авторизационного ядра системы. Поддержка текущей функциональности (требует глубокого погружения в существующий..."
+   },
+   {
+      "name": "Программист Python",
+      "url": "https://hh.ru/vacancy/102193216",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Описания нет"
+   },
+   {
+      "name": "Manual middle QA (middle)",
+      "url": "https://hh.ru/vacancy/102288199",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Тестированием мобильного приложения, UI/UX. Тестированием API. Работой с аналитикой, умением читать и понимать ее, написанием тест-кейсов до реализации..."
+   },
+   {
+      "name": "QA инженер",
+      "url": "https://hh.ru/vacancy/102181458",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Проводить функциональное, интеграционное, нагрузочное тестирование сложного инженерного продукта. - Воспроизводить проблемы на основе запросов и отзывов пользователей. - Составлять тест-кейсы, чек..."
+   },
+   {
+      "name": "Junior Data Engineer",
+      "url": "https://hh.ru/vacancy/102105657",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Continuous pipeline of challenging tasks and activities requiring great amount of autonomy, self-study, analytical work, creativity, communication with team..."
+   },
+   {
+      "name": "Стажер - тестировщик, Приложение Ozon",
+      "url": "https://hh.ru/vacancy/101918726",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Тестировать приложение на платформах Android и iOS. Писать кейсы. Автоматизировать тестовые сценарии. Взаимодействовать с командами разработки, дизайна, backend, продукта. "
+   },
+   {
+      "name": "Backend dasturchisi (Python/Django)",
+      "url": "https://hh.ru/vacancy/101786095",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Описания нет"
+   },
+   {
+      "name": "Аналитик данных/Data analyst",
+      "url": "https://hh.ru/vacancy/100682095",
+      "salary_from": 0,
+      "salary_to": 120000,
+      "description": "Миграция данных (анализ объектной модели для миграции данных, создание динамических таблиц, перенос исторических данных, перенос сегментов, перенос отчетов). "
+   },
+   {
+      "name": "Главный специалист (электронный документооборот)",
+      "url": "https://hh.ru/vacancy/102156888",
+      "salary_from": 0,
+      "salary_to": 70000,
+      "description": "Обработка данных. Консультирование пользователей. Работа с базами данных (системами управления базами данных - СУБД)."
+   },
+   {
+      "name": "Специалист по тестированию (QE Engineer)",
+      "url": "https://hh.ru/vacancy/102274601",
+      "salary_from": 0,
+      "salary_to": 120000,
+      "description": "Взаимодействовать по тестируемой задаче с аналитиками, разработчиками. Осуществлять поддержку автоматических тестов и участвовать в разработке новых (Postman, <highlighttext>Python</highlighttext> + Selenium)."
+   },
+   {
+      "name": "Аналитик Excel",
+      "url": "https://hh.ru/vacancy/98607648",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Анализ сложных финансовых моделей, реализованных в MS Excel. Анализ учетных систем 1С или подобных систем с целью получения данных..."
+   },
+   {
+      "name": "Fullstack Web Разработчик (Python Django/Flask)",
+      "url": "https://hh.ru/vacancy/102272764",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка web-приложений различной сложности. Разработка REST API. Работа со сторонними API. Поддержка, устранение проблем и доработка приложений. "
+   },
+   {
+      "name": "Разработчик-стажер Python (parsing+backend) в области PropTech",
+      "url": "https://hh.ru/vacancy/102248328",
+      "salary_from": 0,
+      "salary_to": 30000,
+      "description": "1. Разработка и поддержка парсеров для сбора данных с различных веб-сайтов согласно требованиям проектов. 2. Анализ и оптимизация существующих..."
+   },
+   {
+      "name": "Junior data scientist",
+      "url": "https://hh.ru/vacancy/101901038",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Решение задачи прогнозирования клиентского спроса, фрода линейного персонала, и проч. Разработка моделей, проведение исследований, анализ качества данных, обсуждение постановки с..."
+   },
+   {
+      "name": "Стажер разработки мобильного приложения",
+      "url": "https://hh.ru/vacancy/101261194",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Верстка экранов мобильного приложения. Подключение бэкенда. Взаимодействие с командой разработки и бизнес аналитиками. Подготовка приложения к релизу для IOS и..."
+   },
+   {
+      "name": "Python разработчик (Backend)",
+      "url": "https://hh.ru/vacancy/101878503",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Создание новых тестов, модернизация существующих."
+   },
+   {
+      "name": "Младший аналитик",
+      "url": "https://hh.ru/vacancy/101332000",
+      "salary_from": 0,
+      "salary_to": 100000,
+      "description": "Анализировать показатели контента OTT-платформы на ежедневной, еженедельной и ежемесячной основе. Отслеживать премьеры на основных российских OTT-платформах. "
+   },
+   {
+      "name": "Разработчик Python",
+      "url": "https://hh.ru/vacancy/101951291",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "сопровождать полный цикл жизни продукта от проработки продуктового решения до деплоя кода на серверы. — работать в кросс-функциональной команде (по..."
+   },
+   {
+      "name": "Python разработчик (Jun+/Middle)",
+      "url": "https://hh.ru/vacancy/100712529",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка серверного кода и написание к нему интеграционных тесто. Рефакторинг и ревью кода. Исправление багов. Участие в обсуждении и реализации..."
+   },
+   {
+      "name": "Заместитель директора по ИТ",
+      "url": "https://hh.ru/vacancy/102078370",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Управление технической поддержкой ИТ инфраструктуры компании, сайтов (для внутренних и внешних пользователей). Менеджмент задач сотрудников ИТ службы (контроль сроков, отчетность). "
+   },
+   {
+      "name": "Frontend-разработчик (React)",
+      "url": "https://hh.ru/vacancy/102116497",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Проектирование и разработка компонентов системы под высокую нагрузку. Реализация интеграций с внешними и внутренними сервисами. Разработка и доработка фичей от..."
+   },
+   {
+      "name": "Python Developer",
+      "url": "https://hh.ru/vacancy/99174196",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка и совершенствование существующего кода. Организация и проведение рефакторинга существующего функционала. Участие в тестировании и отладке программного обеспечения. "
+   },
+   {
+      "name": "Junior Data Engineer",
+      "url": "https://hh.ru/vacancy/101793255",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Continuous pipeline of challenging tasks and activities requiring great amount of autonomy, self-study, analytical work, creativity, communication with team..."
+   },
+   {
+      "name": "Инженер-разработчик Python",
+      "url": "https://hh.ru/vacancy/102273538",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разрабатывать скрипты для производственного тестирования плат и узлов БПЛА (у нас собственные универсальные стенды и собственный фреймворк на <highlighttext>Python</highlighttext> для..."
+   },
+   {
+      "name": "Программист Python / Екатеринбург",
+      "url": "https://hh.ru/vacancy/102307150",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Техническая поддержка продукта. Консультации клиентов через портал поддержки по вопросам интеграции. Помощь клиентам с настройкой интеграции. Настройка ПО, оборудования, техническая..."
+   },
+   {
+      "name": "Junior Data Analyst",
+      "url": "https://hh.ru/vacancy/102263064",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Настройка и оптимизация отчётности в Tableau, создание и автоматизация обновления источников данных Tableau. Сбор, обработка и анализ данных – проверка гипотез..."
+   },
+   {
+      "name": "Data analyst (стажер)",
+      "url": "https://hh.ru/vacancy/101652555",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Третье Мнение - разработчик IT-решений для системы здравоохранения. Мы создаем продукты на основе технологий искусственного интеллекта, позволяющие автоматизировать процессы в..."
+   },
+   {
+      "name": "Аналитик (Python, SQL)",
+      "url": "https://hh.ru/vacancy/102246703",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Подготовка предложений по макропруденциальному регулированию в сегменте кредитования физлиц. Валидация математических моделей оценки доходов заемщиков, применяемых кредитными организациями для расчета..."
+   },
+   {
+      "name": "Python-разработчик",
+      "url": "https://hh.ru/vacancy/100717364",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Обзор роли: - Разработка и поддержка Telegram-ботов на <highlighttext>python</highlighttext>. - Постоянное совершенствование существующих решений. - Проектирование баз данных. - Работа с Linux на..."
+   },
+   {
+      "name": "Разработчик Python",
+      "url": "https://hh.ru/vacancy/102099120",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Работать над проектами управления Оценки: разработка и доработка скриптов ценообразования, участие в проектах рассылки отчетности, чат-боты. Дорабатывать, рефакторить и..."
+   },
+   {
+      "name": "TON & Telegram разработчик",
+      "url": "https://hh.ru/vacancy/101920925",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка Telegram-ботов (использование <highlighttext>Python</highlighttext>). Интеграция API, работа с API смарт-контрактов и TVM для обеспечения эффективной интеграции. "
+   },
+   {
+      "name": "Младший инженер по тестированию",
+      "url": "https://hh.ru/vacancy/102261074",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Проведение ручного и автоматизированного тестирования. Участие в оптимизации процессов тестирования в подразделении. Разработка отчетов по результатам тестирования. Взаимодействие с командами..."
+   },
+   {
+      "name": "Junior Manual QA specialist / Ручной тестировщик",
+      "url": "https://hh.ru/vacancy/102199327",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Составлять и выполнять тест-планы. Собирать информацию о багах из саппорта и заниматься общей обработкой запросов, приходящих от других команд. "
+   },
+   {
+      "name": "Инженер по тестированию",
+      "url": "https://hh.ru/vacancy/102173427",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Инновационная компания АО «Расчетные решения» – дочерняя структура ПАО Сбербанк, предоставляет комплексные решения для органов государственной власти, а также для муниципальных..."
+   },
+   {
+      "name": "Python-разработчик",
+      "url": "https://hh.ru/vacancy/101863965",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Льготы и меры господдержки, предусмотренные для IT-компаний (аккредитованы Минцифры*). 40+ клубов по интересам и профессиональных сообществ внутри компании."
+   },
+   {
+      "name": "Frontend-разработчик",
+      "url": "https://hh.ru/vacancy/101579846",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Backend: JAVA, PHP (Laravel, Simfony), <highlighttext>Python</highlighttext> (Django, Flask, asyncio), Node.js. Frontend: React Js, Vue.JS. Принимать участие в разработке новых и..."
+   },
+   {
+      "name": "QA инженер",
+      "url": "https://hh.ru/vacancy/101826363",
+      "salary_from": 0,
+      "salary_to": 180000,
+      "description": "8 backend разработчиков, C#. 4 frontend разработчика, Vue js. 1 UX/UI дизайнер. 1 Системный аналитик. 1 QA инженер. "
+   },
+   {
+      "name": "Тестировщик/QA",
+      "url": "https://hh.ru/vacancy/97041487",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Составлять тест-планы, тестовые сценарии, согласно приложенным требованиям. Проводить ручное тестирование программных компонентов, согласно имеющимся тест-планам и обнаруживать ошибки. "
+   },
+   {
+      "name": "Программист-разработчик",
+      "url": "https://hh.ru/vacancy/102325743",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка и доработка проекта на Vue - веб-сайт-портал ЦОБ Актив."
+   },
+   {
+      "name": "Стажер Data Scientist, Логика ранжирования",
+      "url": "https://hh.ru/vacancy/102188093",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Работать над логикой переранжирования рекомендаций товаров. Моделировать гипотезы в офлайне, тестировать их в онлайне через аб, делать выводы по результатам. "
+   },
+   {
+      "name": "Младший аналитик",
+      "url": "https://hh.ru/vacancy/95737710",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Созданием регулярных и разовых отчетов для департамента доставки. Проведением аналитики и исследованием по курьерской доставке. Обновлением и поддержкой отчетов доставки. "
+   },
+   {
+      "name": "Стажер C++/Python",
+      "url": "https://hh.ru/vacancy/101972965",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Общение с внутренним заказчиком по части автоматизации производственных процессов внутри ИТ. Проведение встреч с членами команды разработки. Формулирование задач на..."
+   },
+   {
+      "name": "Разработчик Python",
+      "url": "https://hh.ru/vacancy/99941977",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка скриптов для вывода данных на фронт. Разработка проектов по сбору и анализу данных."
+   },
+   {
+      "name": "Программист Python (middle)",
+      "url": "https://hh.ru/vacancy/101109392",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Проектирование и разработка микросервисов на базе <highlighttext>Python</highlighttext>. Реализация API. Поддержка текущих сервисов."
+   },
+   {
+      "name": "Bitrix || Joomla || PHP - программист разработчик / УДАЛЕННО",
+      "url": "https://hh.ru/vacancy/101834713",
+      "salary_from": 0,
+      "salary_to": 100000,
+      "description": "внесение изменений в существующие сайты."
+   },
+   {
+      "name": "Стажер Data Analyst, Аналитика поиска",
+      "url": "https://hh.ru/vacancy/102297436",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Поиск — это ключевой продукт в Озоне, охватывающий все этапы пользовательского пути: от формирования поискового запроса до нахождения релевантных товаров и..."
+   },
+   {
+      "name": "Unity разработчик",
+      "url": "https://hh.ru/vacancy/102169238",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка и внедрение игровых механик и систем на платформе Unity. - Оптимизация производительности и устранение багов. - Взаимодействие с командой дизайнеров, художников..."
+   },
+   {
+      "name": "Бизнес-аналитик",
+      "url": "https://hh.ru/vacancy/102082240",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Много и эффективно работать: думать, креативить и созидать. Штурмовать проблемы и выдвигать идеи. Воплощать идеи в жизнь: ставить ТЗ для..."
+   },
+   {
+      "name": "Программист Python",
+      "url": "https://hh.ru/vacancy/102208021",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка бизнес-системы с использованием веб-технологий. Автоматизация сервисов с большим количеством пользователей. Дружелюбная команда с юмором, готовая поддержать и..."
+   },
+   {
+      "name": "Machine Learning Engineer",
+      "url": "https://hh.ru/vacancy/101224019",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Enhance and optimize prompts used by the AI Assistant. - Improve the input data handling process to ensure seamless integration with..."
+   },
+   {
+      "name": "Продуктовый аналитик",
+      "url": "https://hh.ru/vacancy/101250596",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Анализом и сегментированием пользователей. Аналитикой поведения пользователей на сайте: исследование пользовательских сценариев, выявление точек роста продукта, генерация гипотез по улучшению..."
+   },
+   {
+      "name": "Младший программист C#",
+      "url": "https://hh.ru/vacancy/101881373",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Доработка алгоритмов и графического интерфейса нашего флагманского программного продукта LS-Tech Framework. Работа с сетевой системой лицензирования (TCP Sockets). ("
+   },
+   {
+      "name": "Web-разработчик",
+      "url": "https://hh.ru/vacancy/101921106",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Администрирование CRM и сайта. Написание скриптов на <highlighttext>python</highlighttext> по управлению данными в базе данных. Изменение данных в админ-панели CRM. "
+   },
+   {
+      "name": "Региональный финансовый партнер",
+      "url": "https://hh.ru/vacancy/102250743",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Ежемесячное планирование и прогнозирование операционных расходов фулфиллментов (Opex) в разрезе объектов, статей затрат. Принимать участие в закрытии отчетного периода (формирование..."
+   },
+   {
+      "name": "Junior Python разработчик",
+      "url": "https://hh.ru/vacancy/101143108",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка и поддержка fullstack - решений, включая бэкенд и фронтенд компоненты веб-приложений. Разработка микросервисов. Создание ETL-процессов для загрузки данных."
+   },
+   {
+      "name": "Python Backend Developer",
+      "url": "https://hh.ru/vacancy/101788704",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Каждый кабинет оснащен индивидуальным устройством мониторинга микроклимата MagicAir, которое непрерывно измеряет концентрацию углекислого газа (CO2), температуру, влажность, концентрацию мелкодисперсных..."
+   },
+   {
+      "name": "Middle QA Auto Engineer",
+      "url": "https://hh.ru/vacancy/101403851",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Функциональное и регрессионное тестирование приложений Web/Mobile-приложений. Фиксирование ошибок в таск-трекер. Автоматизированное тестирования приложений. Подготовка отчетов о тестировании. "
+   },
+   {
+      "name": "Разработчик отчетов в MS Power BI",
+      "url": "https://hh.ru/vacancy/102301259",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка аналитических, финансовых и производственных отчетов в Power BI. Работа по извлечению данных из разных источников и их преобразования. "
+   },
+   {
+      "name": "Python разработчик",
+      "url": "https://hh.ru/vacancy/96284602",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Участие в подготовке заданий на разработку проектных решений. Участие в сборе исходных данных для проектирования. Участие в реализации проектных решений..."
+   },
+   {
+      "name": "Middle/senior Python developer [Appbazar]",
+      "url": "https://hh.ru/vacancy/101607953",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разрабатывать API для приложения AppBazar. Разрабатывать модули работы с внешними интеграциями. Создавать инфраструктуру под приложение бэк-офиса/админки/дашборда (сайт..."
+   },
+   {
+      "name": "Разработчик Python",
+      "url": "https://hh.ru/vacancy/95644787",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разрабатывать и сопровождать десктопные приложения. Писать скрипты на sql и pandas для обработки данных. Поддерживать и развивать базы данных для..."
+   },
+   {
+      "name": "Junior Python Developer",
+      "url": "https://hh.ru/vacancy/101732004",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разрабатывать массивных Telegram ботов. — Участвовать в сопровождении и корректировки текущих проектов. — Помогать интегрировать ИИ в Telegram ботов. — Участвовать в обучении..."
+   },
+   {
+      "name": "Data Scientist",
+      "url": "https://hh.ru/vacancy/100428121",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "восстановление информации о клиентах, их потребностях, событиях и контексте в жизни клиента на основании цифровых следов. - определение геолокаций клиентов по..."
+   },
+   {
+      "name": "Стажер Data Engineer",
+      "url": "https://hh.ru/vacancy/102090329",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Введение в обработку и хранение данных. Apache Airflow, Greenplum, ClickHouse. Подходы к работе с большими объемами данных. Разработка ETL процессов. "
+   },
+   {
+      "name": "Инженер по тестированию (web)",
+      "url": "https://hh.ru/vacancy/101262959",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Проводить функциональное, регрессионное, интеграционное тестирование. Участвовать в грумингах, оценке задач. Составлять тестовую документацию (Allure TestOPS), наполнять базу знаний (Confluence). "
+   },
+   {
+      "name": "QA Engineer",
+      "url": "https://hh.ru/vacancy/101845833",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Ведением тестовой документации (тест-кейсы, чек-листы). Разработкой автотестов (разработка: <highlighttext>Python</highlighttext> + PyTest + SeleniumBase; запуски Selenoid, gitlab-ci; отчеты..."
+   },
+   {
+      "name": "QA-engineer",
+      "url": "https://hh.ru/vacancy/98790577",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Тестировать WEB/API. Участвовать в планировании и проработке задач. Написанием тестовой документации. Использовать в своей работе тест-дизайн для оптимизации. "
+   },
+   {
+      "name": "Junior python-программист в техподдержку (FastAPI)",
+      "url": "https://hh.ru/vacancy/102012417",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Доработка интеграций по документации партнера. Улучшение действующих микросервисов. Поддержка действующего функционала. Работа с агрегированными запросами SQL/NoSQL. Работа с настройками..."
+   },
+   {
+      "name": "QA Engineer",
+      "url": "https://hh.ru/vacancy/102298095",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Ручное тестирование функционала системы (backend/frontend) в рамках микросервисной архитектуры, декстоп и мобильных приложений. Проведение регрессионного тестирования и поддержание в..."
+   },
+   {
+      "name": "Middle QA-Engineer",
+      "url": "https://hh.ru/vacancy/99569205",
+      "salary_from": 0,
+      "salary_to": 160000,
+      "description": "Тестирование backend сервисов. Написание автотестов. Написание документации."
+   },
+   {
+      "name": "Тестировщик (Казань)",
+      "url": "https://hh.ru/vacancy/101856729",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Ручное тестирование мобильных и веб-приложений. Регрессионное тестирование существующих продуктов. Сопровождение релизов. Взаимодействие с разработчиками, аналитиками. Участие в проработке задач. "
+   },
+   {
+      "name": "Программист-стажер",
+      "url": "https://hh.ru/vacancy/100323480",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Участие в проведении стендовых тестов. Настройка и поддержание тестовой инфраструктуры. Работа в тикет-системе."
+   },
+   {
+      "name": "Python-разработчик",
+      "url": "https://hh.ru/vacancy/101336001",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработа бэка для веб-приложений и мобильных приложений в проекте, включающем геоинформационную систему, корпоративный портал, систему аналитики. Поддержка работоспособности, доработка..."
+   },
+   {
+      "name": "Разработчик Python, Маркетплейс, Цены и анализ конкурентов",
+      "url": "https://hh.ru/vacancy/102214513",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка новых сервисов на <highlighttext>Python</highlighttext> или Go. Реализация и поддержка Real-Time матчинга (<highlighttext>Python</highlighttext>/GO, Kubernetes, Kafka, Postgresql, Onnx, Redis..."
+   },
+   {
+      "name": "Middle Python Developer",
+      "url": "https://hh.ru/vacancy/102267678",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка web части сайтов. Разработка REST сервисов. Разработка микросервисов . Разработка клиентов для работы со сторонними API. Написание unit тестов. "
+   },
+   {
+      "name": "Backend Developer",
+      "url": "https://hh.ru/vacancy/100087625",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Коммуникационное агентство: интегрированные маркетинговые кампании и спецпроекты на стыке различных инструментов digital с участием блогеров и звёзд. Креативный хаб: разработка..."
+   },
+   {
+      "name": "Junior Data Analyst",
+      "url": "https://hh.ru/vacancy/102196854",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка отчетов в BI-системах: Tableau, Redash, Superset, PowerBI. Построение дашбордов и систем мониторинга. Построение отчетов с использованием <highlighttext>Python</highlighttext> (pandas..."
+   },
+   {
+      "name": "Младший аналитик-стажер",
+      "url": "https://hh.ru/vacancy/102142389",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Подготовка, обработка и анализ Big Data. — Интерпретация результатов анализа. — Создание и администрирование витрин данных. — Анализ, моделирование и автоматизация бизнес-процессов. — "
+   },
+   {
+      "name": "Аналитик",
+      "url": "https://hh.ru/vacancy/101697522",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Консолидация и унификация данных о рынках, товарных категориях и брендах. Разработка, внедрение и автоматизация аналитической отчетности. Реализация аналитических проектов в..."
+   },
+   {
+      "name": "Python-разработчик",
+      "url": "https://hh.ru/vacancy/101736845",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Участие в разработке новой системы. Реализация микросервисов. Написание unit-тестов. Проектирование задач и модулей."
+   },
+   {
+      "name": "QA Engineer",
+      "url": "https://hh.ru/vacancy/102118035",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Осуществление полного цикла тестирования приложений для платформы Smart TV. Выявление и документирование дефектов. Взаимодействие и коммуникация с командами разработчиков (Европа..."
+   },
+   {
+      "name": "Data Analyst/Аналитик данных (Junior)",
+      "url": "https://hh.ru/vacancy/101653612",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка витрин данных (SQL). Разработка скриптов, формирующих витрины (<highlighttext>Python</highlighttext>, Airflow). Поддержка работы алгоритмов прогнозирования различных метрик. Настройка событий веб-аналитики..."
+   },
+   {
+      "name": "Middle+ QA Engineer",
+      "url": "https://hh.ru/vacancy/99930025",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Тестировать новые модули и функции продукта. Участвовать в построении процесса тестирования (регресс, смоук, тестирование фичей, процесс выкатки, ретроспектива релиза). "
+   },
+   {
+      "name": "Data Analyst in Upstream / Subsurface / Geology",
+      "url": "https://hh.ru/vacancy/102213559",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Research and analyse regional geology of the area. Process various types of Subsurface oil and gas data, including basins, plays..."
+   },
+   {
+      "name": "Middle Manual QA specialist / Ручной тестировщик",
+      "url": "https://hh.ru/vacancy/101674242",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Составлять и выполнять тест-планы. Собирать информацию о багах из саппорта и заниматься общей обработкой запросов, приходящих от других команд. "
+   },
+   {
+      "name": "Trainee Python developer (AI-ML team)",
+      "url": "https://hh.ru/vacancy/102099724",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Quickly prototype new ideas/technologies to create proof of concept and demos. Develop robust and testable applications in <highlighttext>python</highlighttext>."
+   },
+   {
+      "name": "Эксперт по цифровым технологиям аудита",
+      "url": "https://hh.ru/vacancy/99042235",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Диагностика, поиск проблем (в т.ч. уязвимостей для внешнего и внутреннего мошенничества), зон улучшения в банковских процессах. Организация и проведение..."
+   },
+   {
+      "name": "Devops Kubernetes",
+      "url": "https://hh.ru/vacancy/102211713",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Быстрый темп работы. Наличие контроля срока исполнения. Установленные сроки со стороны клиентов и Общества."
+   },
+   {
+      "name": "Junior QA-Engineer",
+      "url": "https://hh.ru/vacancy/101645763",
+      "salary_from": 0,
+      "salary_to": 70000,
+      "description": "Тестирование backend. Тестирование frontend. Написание тестовой документации (чеклисты, тест-кейсы и баг-репорты). Погружение в автотестирование. Анализ ТЗ, выявление несоответствий."
+   },
+   {
+      "name": "Web-программист",
+      "url": "https://hh.ru/vacancy/102287895",
+      "salary_from": 0,
+      "salary_to": 100000,
+      "description": "Работа над созданием успешных проектов. Следование общим целям проекта."
+   },
+   {
+      "name": "Middle/Senior Python Developer",
+      "url": "https://hh.ru/vacancy/101099210",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Разработка приложения на базе Django. Взаимодействие с командой аналитики по реализации требований проекта. Сопровождение жизненного цикла приложения. Написание технической документации. "
+   },
+   {
+      "name": "Junior Data Analyst",
+      "url": "https://hh.ru/vacancy/101878830",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "IT-компания Цифровой Двойник помогает инвестиционным банкам и предприятиям повышать результативность управления активами, находить точки роста для бизнеса. "
+   },
+   {
+      "name": "Инженер-тестировщик (удаленно)",
+      "url": "https://hh.ru/vacancy/101834260",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Ручное и автоматизированное тестирование микросервисов (API). Создание и ведение тестовой документации. Создание и поддержка автоматических тестов. Работа с документацией проектов."
+   },
+   {
+      "name": "Руководитель отдела аналитики (департамент продаж и маркетинга)",
+      "url": "https://hh.ru/vacancy/102289529",
+      "salary_from": 0,
+      "salary_to": 0,
+      "description": "Управление двумя группами аналитиков (8 человек в подчинении): аналитики по развитию дополнительных услуг и data-аналитики, web-аналитик, marketing-аналитик..."
+   },
+   {
+      "name": "Трейдер",
+      "url": "https://hh.ru/vacancy/101741969",
+      "salary_from": 0,
+      "salary_to": 200000,
+      "description": "Совершение сделок с ценными бумагами в системах биржевой торговли. Проведение анализа рынка и оценка инвестиционной привлекательности отдельных финансовых инструментов. "
+   }
+]

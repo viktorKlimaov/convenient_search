@@ -42,11 +42,12 @@ class JSONSaver(AbstractJson):
                 for vacancy in sort_vacancies:
                     data.append(vacancy.cast_to_object_list())
 
+        # добавление список вакансий в JSON-файл
         with open(self.path, 'w', encoding='utf-8') as file:
-            return json.dump(data, file, indent=3, ensure_ascii=False)
+            json.dump(data, file, indent=3, ensure_ascii=False)
 
     # Функция для получения вакансий по критериям пользователя
-    def sort_vacancy(self, salary_range, filter_words):
+    def sort_vacancy(self, salary_range, filter_words: str) -> list:
         with open(self.path, 'r', encoding='utf-8') as file:
             vacancy_list = json.load(file)
 
@@ -67,7 +68,7 @@ class JSONSaver(AbstractJson):
 
     @staticmethod
     # Получение вакансии для пользователя
-    def reed_vacancy(sort_vacancy, element):
+    def reed_vacancy(sort_vacancy: list, element: int):
         name = sort_vacancy[element]['name']
         url = sort_vacancy[element]['url']
         salary_from = sort_vacancy[element]['salary_from']

@@ -17,22 +17,22 @@ class Vacancy:
     def salary_from(salary) -> int:
         try:
             salary_from = salary.get('from')
-            return salary_from or 0
         except Exception:
             return 0
+        else:
+            return salary_from or 0
 
     @staticmethod
     def salary_to(salary) -> int:
         try:
             salary_to = salary.get('to')
-            return salary_to or 0
         except Exception:
             return 0
+        else:
+            return salary_to or 0
 
     def __lt__(self, other):
-        if isinstance(other, Vacancy):
-            return self.salary_from < other.salary_from
-        raise Exception
+        return self.salary_from < other.salary_from
 
     # Функция сохранения вакансии в словарь
     def cast_to_object_list(self):

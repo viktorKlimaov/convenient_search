@@ -20,7 +20,7 @@ class HeadHunterAPI(AbstractParser):
         self.params = {'text': '', 'page': 0, 'per_page': 100}
 
     # Функция для requests запроса
-    def get_vacancies(self, keyword: str, page: int):
+    def get_vacancies(self, keyword: str, page: int) -> list[dict]:
         self.params['text'] = keyword
         self.params['page'] = page
         response = requests.get(self.url, headers=self.headers, params=self.params)
@@ -29,7 +29,7 @@ class HeadHunterAPI(AbstractParser):
 
     # функция для создания списка объектов вакансий
     @staticmethod
-    def from_vacancy(vacancies):
+    def from_vacancy(vacancies: list):
         list_vacancy = []
         for vacancy in vacancies:
             list_vacancy.append(Vacancy(name_vacancies=vacancy.get('name'), link=vacancy.get('alternate_url'),

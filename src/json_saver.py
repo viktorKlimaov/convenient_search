@@ -79,7 +79,7 @@ class JSONSaver(AbstractJson):
 
     # Функция для удаления вакансии
     def del_vacancy(self, vacancy):
-        with open(self.path, 'w', encoding='utf-8') as file:
+        with open(self.path, 'r', encoding='utf-8') as file:
             vacancy_list = json.load(file)
         return vacancy_list.rmote(vacancy)
 

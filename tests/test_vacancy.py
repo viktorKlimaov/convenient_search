@@ -31,7 +31,7 @@ def test_salary_from(vacancy):
         "to": 15000000,
         "currency": "UZS",
         "gross": True
-    }) == 5000000 or 0
+    }) == 5000000
 
 
 
@@ -42,4 +42,4 @@ def test_salary_to(vacancy):
         "to": 15000000,
         "currency": "UZS",
         "gross": True
-    }) == 15000000 or 0
+    }) == 15000000

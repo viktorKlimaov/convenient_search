@@ -1,5 +1,4 @@
 from src.hh_api import AbstractParser, HeadHunterAPI
-from src.vacancy import Vacancy
 from src.json_saver import JSONSaver
 
 
@@ -44,8 +43,6 @@ def user_interaction():
         for element in range(top_n):
             print()
             print(json_saver.reed_vacancy(sort_vacancy, element))
-
-
 
 
 if __name__ == "__main__":

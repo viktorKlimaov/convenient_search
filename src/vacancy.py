@@ -34,6 +34,13 @@ class Vacancy:
     def __lt__(self, other):
         return self.salary_from < other.salary_from
 
+    def __str__(self):
+        return (f"Вакансия: {self.name_vacancies}\n"
+                f"ссылка на вакансию: {self.link}\n"
+                f"описание вакансии: {self.description}\n"
+                f"зарплата от: {self.salary_from}\n"
+                f"зарплата до: {self.salary_to}")
+
     # Функция сохранения вакансии в словарь
     def cast_to_object_list(self):
         dict_vacancy = {"name": self.name_vacancies,

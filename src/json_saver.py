@@ -43,7 +43,7 @@ class JSONSaver(AbstractJson):
         with open(self.path, 'w', encoding='utf-8') as file:
             return json.dump(data, file, indent=4, ensure_ascii=False)
 
-    # Функция для получения вакансий по критериям пользователя
+    # Функция для чтение JSON-файл
     def reed_vacancy(self) -> list:
         with open(self.path, 'r', encoding='utf-8') as file:
             vacancy_list = json.load(file)

@@ -1,5 +1,5 @@
 from src.hh_api import AbstractParser, HeadHunterAPI
-from src.vacancy import Vacancy
+from src.utils import sort_vacancy, get_vacancy
 from src.json_saver import JSONSaver
 
 
@@ -30,22 +30,23 @@ def user_interaction():
     vacancies_list = hh_api.from_vacancy(vacancies)
     # инициализация объекта JSONSaver класса
     json_saver = JSONSaver()
+    json_saver.del_vacancy()
     # добавление вакансий в JSON-файл
     json_saver.add_vacancy(vacancies_list)
+    # чтение JSON-файл
+    reed_vacancy = json_saver.reed_vacancy()
     # Фильтрация по критериям пользователя
-    sort_vacancy = json_saver.sort_vacancy(salary_range, filter_words)
+    top_vacancy = sort_vacancy(filter_words, salary_range, reed_vacancy)
 
-    if len(sort_vacancy) < top_n:
-        for element in range(len(sort_vacancy)):
+    if len(top_vacancy) < top_n:
+        for element in range(len(top_vacancy)):
             print()
-            print(json_saver.reed_vacancy(sort_vacancy, element))
-        print(f'по донному запросу найдено: {len(sort_vacancy)} вакансий')
+            print(get_vacancy(top_vacancy, element))
+        print(f'по донному запросу найдено: {len(top_vacancy)} вакансий')
     else:
         for element in range(top_n):
             print()
-            print(json_saver.reed_vacancy(sort_vacancy, element))
-
-
+            print(get_vacancy(top_vacancy, element))
 
 
 if __name__ == "__main__":

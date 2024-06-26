@@ -36,7 +36,7 @@ def user_interaction():
     # чтение JSON-файл
     reed_vacancy = json_saver.reed_vacancy()
     # Фильтрация по критериям пользователя
-    top_vacancy = sort_vacancy(filter_words, salary_range, reed_vacancy)
+    top_vacancy = sort_vacancy(salary_range, filter_words, reed_vacancy)
 
     if len(top_vacancy) < top_n:
         for element in range(len(top_vacancy)):

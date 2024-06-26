@@ -22,7 +22,15 @@ def list_vacancy():
 
 
 def test_sort_vacancy(list_vacancy):
-    assert sort_vacancy("0 1000000", None, list_vacancy) == []
+    assert sort_vacancy(['10', '100000'], 'Водитель', list_vacancy) == [
+    {
+        "name": "Водитель-экспедитор",
+        "url": "https://hh.ru/vacancy/101840292",
+        "salary_from": 110000,
+        "salary_to": 0,
+        "description": "Развоз продукции по Клиентским точкам в Москве и МО. Соблюдение стандартов и правил компании. Ведение документооборота, заполнение накладных, путевых и..."
+    }]
+
 
 
 def test_reed_vacancy():

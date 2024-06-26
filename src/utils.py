@@ -1,5 +1,5 @@
 # Функция для получения вакансий по критериям пользователя
-def sort_vacancy(filter_words: str, salary_range, vacancy_list: list):
+def sort_vacancy(salary_range: list[str], filter_words: str | None, vacancy_list: list):
     # сортировка по зарплате
     sort_vacancies = sorted(vacancy_list, key=lambda x: x['salary_from'], reverse=True)
 

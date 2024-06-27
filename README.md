@@ -15,4 +15,4 @@ ___
 
 Запустите файл main.py.
 
-Нахождение файла: convenient_search/src/main.py
+Нахождение файла: convenient_search/main.py

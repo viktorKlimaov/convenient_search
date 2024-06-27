@@ -1,4 +1,4 @@
-from src.hh_api import AbstractParser, HeadHunterAPI
+from src.hh_api import HeadHunterAPI
 from src.utils import sort_vacancy, get_vacancy
 from src.json_saver import JSONSaver
 
@@ -9,20 +9,23 @@ def user_interaction():
     try:
         page = int(input("Введите количество страниц, не больше 20: "))
     except ValueError:
-        return print('количество страниц должно быть числовым значением')
+        print('количество страниц должно быть числовым значением')
+        return ValueError
     try:
         top_n = int(input("Введите количество вакансий для вывода в топ N: "))
     except ValueError:
-        return print('количество вакансий должно быть числовым значением')
+        print('количество вакансий должно быть числовым значением')
+        return ValueError
 
     filter_words = input("Введите ключевое слово для фильтрации вакансий: ")
-    salary_range = input("Введите диапазон зарплат, через пробел # Пример: 100000 150000: ").split() # Пример: 100000 - 150000
-    if len(salary_range) < 2:
-        raise SystemExit('Ожидается два значения')
+    try:
+        salary_range = input("Введите диапазон зарплат, через пробел # Пример: 100000 150000: ").split()
+        if len(salary_range) < 2 or len(salary_range) >= 3:
+            raise ValueError
+    except ValueError:
+        print('Ожидается два значения')
+        return ValueError
 
-    # Объект абстрактного класса
-    ab = AbstractParser
-    #
     hh_api = HeadHunterAPI()
     # requests запрос
     vacancies = hh_api.get_vacancies(search_query, page)

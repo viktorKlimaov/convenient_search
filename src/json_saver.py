@@ -25,11 +25,11 @@ class JSONSaver(AbstractJson):
     """
 
     def __init__(self):
-        self.path = os.path.join('..', 'data', 'vacancies.json')
+        self.__path = os.path.join('..', 'data', 'vacancies.json')
 
     # Функция для сохранения, вакансий в JSON-файл
     def add_vacancy(self, vacancies: list[Vacancy]):
-        with open(self.path, 'r', encoding='utf-8') as file:
+        with open(self.__path, 'r', encoding='utf-8') as file:
             try:
                 data: list[dict[str, Any]] = json.load(file)
             except json.JSONDecodeError:
@@ -40,16 +40,16 @@ class JSONSaver(AbstractJson):
                     data.append(vacancy.cast_to_object_list())
 
         # добавление список вакансий в JSON-файл
-        with open(self.path, 'w', encoding='utf-8') as file:
+        with open(self.__path, 'w', encoding='utf-8') as file:
             return json.dump(data, file, indent=4, ensure_ascii=False)
 
     # Функция для получения вакансий по критериям пользователя
     def reed_vacancy(self) -> list:
-        with open(self.path, 'r', encoding='utf-8') as file:
+        with open(self.__path, 'r', encoding='utf-8') as file:
             vacancy_list = json.load(file)
         return vacancy_list
 
     # Функция для удаления вакансии
     def del_vacancy(self):
-        with open(self.path, 'w', encoding='utf-8') as file:
+        with open(self.__path, 'w', encoding='utf-8') as file:
             pass

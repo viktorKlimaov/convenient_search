@@ -24,8 +24,8 @@ class JSONSaver(AbstractJson):
      Класс для сохранения вакансий в JSON-файл и получения вакансий из JSON-файл
     """
 
-    def __init__(self):
-        self.__path = os.path.join('..', 'data', 'vacancies.json')
+    def __init__(self, file_name='data/vacancies.json'):
+        self.__path = os.path.abspath(file_name)
 
     # Функция для сохранения, вакансий в JSON-файл
     def add_vacancy(self, vacancies: list[Vacancy]):

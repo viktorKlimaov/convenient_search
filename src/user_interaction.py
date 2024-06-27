@@ -50,7 +50,3 @@ def user_interaction():
         for element in range(top_n):
             print()
             print(get_vacancy(top_vacancy, element))
-
-
-if __name__ == "__main__":
-    user_interaction()
